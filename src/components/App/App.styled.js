@@ -8,8 +8,9 @@ export const Container = styled.div`
   text-align: center;
   justify-content: center;
   border-radius: 20px;
-  border: 3px solid #333340;
-    background: linear-gradient(62.93deg, #97ccf0 19.68%, #5218fa 89.55%);
+  border: 1px solid #333340;
+  background: rgb(46,0,255);
+  background: linear-gradient(180deg, rgba(46,0,255,1) 0%, rgba(255,252,0,1) 100%);
 `;
 
 export const Title = styled.h1`

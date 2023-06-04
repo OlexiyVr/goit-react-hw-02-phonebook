@@ -17,7 +17,7 @@ export const ListItem = styled.li`
 
 export const Button = styled.button`
   padding: 5px 20px;
-  color: #333340;
-  border: 1px solid #333340;
+  color: green;
+  border: 2px solid #333340;
   border-radius: 5px;
 `;
