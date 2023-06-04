@@ -16,16 +16,16 @@ export const Container = styled.div`
 export const Title = styled.h1`
   display: block;
   margin: 0 0 20px;
-  color: #333340;
-  font-size: 32px;
+  color: #FFD233;
+  font-size: 44px;
 `;
 
 export const ContactsTitle = styled.h2`
   display: block;
   padding-top: 30px;
   margin: 0 0 20px;
-  color: #333340;
-  font-size: 24px;
+  color: #FFD233;
+  font-size: 34px;
 `;
 
 export const FilterTitle = styled.p`
